@@ -13,6 +13,6 @@ class Suma {
 
     return a+b;
 
-  
+  }
 }
 
